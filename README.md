@@ -1,2 +1,2 @@
 # helloworld-actions
-Test github actions with python
+Test python REST API with github actions and deploy to docker hub
